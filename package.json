@@ -1,0 +1,21 @@
+{
+  "name": "cyber-dev-colors",
+  "displayName": "Cyber Dev Colors",
+  "description": "Cyber developer color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyber Dev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyber Dev-color-theme.json"
+      }
+    ]
+  }
+}
