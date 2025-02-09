@@ -2,6 +2,11 @@
 
 Todos los cambios notables de este proyecto se documentarán en este archivo.
 
+## [1.0.6]
+
+### Cambiado
+- Registro de cambios editado para representar mejor la información.
+
 ## [1.0.5]
 
 ### Añadido
