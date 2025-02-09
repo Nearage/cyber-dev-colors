@@ -1,4 +1,8 @@
-## [1.0.5] - 2023-10-05
+# Changelog
+
+Todos los cambios notables de este proyecto se documentarán en este archivo.
+
+## [1.0.5]
 
 ### Añadido
 - Registro de cambios
