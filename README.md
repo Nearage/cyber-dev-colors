@@ -28,9 +28,4 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE.md](./LICENSE.md) para obtener más detalles.
 
-## Recursos adicionales
-
-* [Documentación de temas de Visual Studio Code](https://code.visualstudio.com/api/extension-guides/color-theme)
-* [Referencia de sintaxis de Markdown](https://help.github.com/articles/markdown-basics/)
-
 **¡Disfruta del tema!**

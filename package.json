@@ -4,7 +4,7 @@
   "description": "Cyber developer color theme.",
   "publisher": "adetena",
   "icon": "./icon.png",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -17,6 +17,11 @@
         "label": "Cyber Dev",
         "uiTheme": "vs-dark",
         "path": "./themes/cyber-dev-color-theme.json"
+      },
+      {
+        "label": "Cyber Dev - Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyber-dev-blue-color-theme.json"
       },
       {
         "label": "Cyber Dev - Orange",
