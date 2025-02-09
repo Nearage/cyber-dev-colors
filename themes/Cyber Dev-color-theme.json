@@ -63,6 +63,7 @@
     "notificationLink.foreground": "#ffbd14",
     "notifications.background": "#121110",
     "notificationsErrorIcon.foreground": "#e02d2d",
+    "panel.border": "#00000000",
     "panelTitle.activeBorder": "#ffbd14",
     "peekView.border": "#fcfcf230",
     "peekViewEditor.background": "#1e1e1e",

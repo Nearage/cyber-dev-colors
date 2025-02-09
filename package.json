@@ -4,7 +4,7 @@
   "description": "Cyber developer color theme.",
   "publisher": "adetena",
   "icon": "./favicon.ico",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.97.0"
   },
