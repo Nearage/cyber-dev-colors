@@ -12,7 +12,7 @@ Cyber Dev Colors es un tema oscuro para Visual Studio Code inspirado en los colo
 ## Uso
 
 1. Abre la paleta de comandos (`Ctrl+Shift+P`).
-2. Escribe `Preferences: Color Theme` y selecciona `Cyber Dev Colors` de la lista.
+2. Escribe `Preferences: Color Theme` y selecciona la variante de `Cyber Dev Colors` que prefieras de la lista.
 
 ## Contribuir
 
