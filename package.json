@@ -2,7 +2,9 @@
   "name": "cyber-dev-colors",
   "displayName": "Cyber Dev Colors",
   "description": "Cyber developer color theme.",
-  "version": "0.0.1",
+  "publisher": "adetena",
+  "icon": "./favicon.ico",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
   },
