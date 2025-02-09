@@ -96,7 +96,7 @@
     "statusBarItem.activeBackground": "#ffbd14",
     "statusBarItem.hoverBackground": "#ffbc14",
     "tab.activeBackground": "#121110",
-    "tab.activeBorderTop": "#ffbd14",
+    "tab.activeBorder": "#ffbd14",
     "tab.border": "#00000000",
     "tab.inactiveBackground": "#121110",
     "terminal.tab.activeBorder": "#ffbd14",
