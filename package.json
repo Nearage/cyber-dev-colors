@@ -17,5 +17,10 @@
         "path": "./themes/Cyber Dev-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "directory": "./",
+    "type": "git",
+    "url": "https://github.com/Nearage/cyber-dev-colors/tree/master"
   }
 }
