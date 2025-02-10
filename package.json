@@ -4,7 +4,7 @@
   "description": "Cyber developer color theme.",
   "publisher": "adetena",
   "icon": "./icon.png",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -14,14 +14,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cyber Dev",
+        "label": "Cyber Dev - Yellow",
         "uiTheme": "vs-dark",
-        "path": "./themes/cyber-dev-color-theme.json"
+        "path": "./themes/cyber-dev-yellow-color-theme.json"
       },
       {
         "label": "Cyber Dev - Blue",
         "uiTheme": "vs-dark",
         "path": "./themes/cyber-dev-blue-color-theme.json"
+      },
+      {
+        "label": "Cyber Dev - Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyber-dev-green-color-theme.json"
       },
       {
         "label": "Cyber Dev - Orange",
@@ -32,6 +37,11 @@
         "label": "Cyber Dev - Purple",
         "uiTheme": "vs-dark",
         "path": "./themes/cyber-dev-purple-color-theme.json"
+      },
+      {
+        "label": "Cyber Dev - White",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyber-dev-white-color-theme.json"
       }
     ]
   },

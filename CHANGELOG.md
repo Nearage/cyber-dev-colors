@@ -2,6 +2,20 @@
 
 Todos los cambios notables de este proyecto se documentarán en este archivo.
 
+## [1.0.7]
+
+### Añadido
+
+- Nuevos temas de color:
+  - "Cyber Dev - Green"
+  - "Cyber Dev - White"
+
+### Cambiado
+
+- Se ha modificado el nombre del tema original, de `Cyber Dev` a `Cyber Dev - Yellow`, para reflejar mejor el color principal.
+- Se ha modificado el archivo [README.md](./README.md) para incluir instrucciones detalladas sobre la instalación, uso y contribución al proyecto.
+
+
 ## [1.0.6]
 
 ### Cambiado
